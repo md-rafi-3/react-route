@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Naim Hossain",
+    "marks": {
+      "physics": 78,
+      "chemistry": 82,
+      "math": 91
+    }
+  },
+  {
+    "id": 2,
+    "name": "Rafiul Islam",
+    "marks": {
+      "physics": 85,
+      "chemistry": 79,
+      "math": 88
+    }
+  },
+  {
+    "id": 3,
+    "name": "Tanzina Akter",
+    "marks": {
+      "physics": 69,
+      "chemistry": 74,
+      "math": 80
+    }
+  },
+  {
+    "id": 4,
+    "name": "Hasib Rahman",
+    "marks": {
+      "physics": 90,
+      "chemistry": 87,
+      "math": 93
+    }
+  },
+  {
+    "id": 5,
+    "name": "Mehjabin Mim",
+    "marks": {
+      "physics": 76,
+      "chemistry": 81,
+      "math": 85
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": "৳800/month",
+    "description": "Perfect for beginners looking to start their fitness journey with essential gym access and basic support.",
+    "features": [
+      "Access to gym equipment",
+      "1-hour daily workout",
+      "Locker facility",
+      "Open 6 days a week",
+      "Basic fitness consultation",
+      "Drinking water facility",
+      "Mobile app access for schedule tracking"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": "৳1,500/month",
+    "description": "Ideal for regular gym-goers who want extended access, personal training, and additional fitness services.",
+    "features": [
+      "Everything in Basic Plan",
+      "Unlimited daily workout",
+      "2 personal training sessions/month",
+      "Nutritional guidance",
+      "Group fitness classes",
+      "Access to cardio and strength zones",
+      "Monthly progress tracking report",
+      "Free Wi-Fi access",
+      "Invitations to gym events"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": "৳2,500/month",
+    "description": "Designed for fitness enthusiasts who want a premium experience with maximum benefits and VIP treatment.",
+    "features": [
+      "Everything in Standard Plan",
+      "8 personal training sessions/month",
+      "Personalized workout & diet plan",
+      "Sauna/steam room access",
+      "Priority support & flexible timing",
+      "Body composition analysis",
+      "Massage therapy (once a month)",
+      "VIP lounge access",
+      "Free gym merchandise (T-shirt, bottle)",
+      "24/7 gym access"
+    ]
+  }
+]
