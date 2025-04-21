@@ -13,16 +13,19 @@ const Books = ({data}) => {
     
  
     return (
-        <div>
-            <h1>Hello books</h1>
-            <Suspense fallback={<span>Loading...</span>}>
-            
-             {
-                data.map(book=><Book book={book}></Book>)
-             }
-            
-            </Suspense>
-        </div>
+        <section className='mt-20'>
+            <h1 className='text-4xl text-center font-bold'>Books</h1>
+            <div className='grid md:grid-cols-3 grid-cols-1 gap-5 mt-8 px-5 md:px-0'>
+           
+           <Suspense fallback={<span>Loading...</span>}>
+           
+            {
+               data.map(book=><Book book={book} key={book.bookId}></Book>)
+            }
+           
+           </Suspense>
+       </div>
+        </section>
     );
 };
 
